@@ -9,7 +9,7 @@
           
 #header3 {color: darkviolet; font-size: 14pt;}
 
-#body {background-color: azure;}
+#body {background-color: azure; margin: 15px}
 
 #paragraph {color: black; font-size: 12pt;}
  
@@ -25,3 +25,5 @@
 .mailto {color: blueviolet;}
 
 #footer {text-decoration: none;color: blueviolet; font-size: 10pt;}
+
+#headerA {color: blueviolet;}
