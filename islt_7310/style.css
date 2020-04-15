@@ -1,2 +1,7 @@
 #header1 {font-style: italic;}
 .header1 {color: #660066;}
+
+#mailto {font-style: normal;}
+.mailto {color: blueviolet;}
+
+#footer {text-decoration: none;color: blueviolet; font-size: 10pt;}
