@@ -1,6 +1,15 @@
-#header1 {font-style: italic;  color: #660066; font-family: helvetica; font-size: 24pt;}
-
+#header1 {font-style: italic; font-family: helvetica; font-size: 24pt; margin-top:30px;
+                padding-left: 15px;
+                padding-right: 25px;
+                width: 300px;
+                
+                border: 2px solid black;
+                background-color: peachpuff;
+                color: #660066;}
+          
 #header3 {color: darkviolet; font-size: 14pt;}
+
+#body {background-color: azure;}
 
 #paragraph {color: black; font-size: 12pt;}
  
@@ -8,7 +17,9 @@
 
 #listb {color: darkorchid;}
 
-#img {float: left;}
+#img {float: left; margin-top:100px;
+                padding-left: 100px;
+                padding-right: 100px;}
 
 #mailto {font-style: normal;}
 .mailto {color: blueviolet;}
