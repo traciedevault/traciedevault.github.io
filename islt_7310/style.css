@@ -1,5 +1,14 @@
-#header1 {font-style: italic;}
-.header1 {color: #660066;}
+#header1 {font-style: italic;  color: #660066; font-family: helvetica; font-size: 24pt;}
+
+#header3 {color: darkviolet; font-size: 14pt;}
+
+#paragraph {color: black; font-size: 12pt;}
+ 
+#lista {color: darkmagenta;}
+
+#listb {color: darkorchid;}
+
+#img {float: left;}
 
 #mailto {font-style: normal;}
 .mailto {color: blueviolet;}
